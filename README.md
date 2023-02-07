@@ -1,7 +1,8 @@
 React: L'agence;
 
 Utilisation du repo:
-clone the repo
+
+clone le repo chef
 une fois dans votre dossier:
     utiliser npm install
     utiliser npm start
