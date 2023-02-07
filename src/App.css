@@ -1,0 +1,17 @@
+.dark {
+  background-color: rgb(40, 40, 40);
+  color: white;
+}
+
+.light {
+  background-color: rgb(182, 182, 182);
+  color: black;
+}
+
+.page-container {
+  padding: 50px;
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  height: 90vh;
+}

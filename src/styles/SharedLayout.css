@@ -1,0 +1,15 @@
+#navbar{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    justify-items: center;
+    background-color: rgba(92, 92, 92, 0.792);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 10vh;
+    align-items: center;
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(7, 211, 219);
+}
