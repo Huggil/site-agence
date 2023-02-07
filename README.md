@@ -6,4 +6,4 @@ clone le repo chef
 une fois dans votre dossier:
     utiliser npm install
     utiliser npm start
-et voilà
+et voilà chef
